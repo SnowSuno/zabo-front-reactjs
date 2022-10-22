@@ -30,7 +30,7 @@ import AppWrapper from './App.styled';
 const App = () => (
   <AppWrapper>
     <Helmet>
-      <title>ZABO -자보</title>
+      <title>ZABO - 자보</title>
       <meta name="description" content="자보는 동아리 리크루팅, 공연, 행사 등을 손쉽게 홍보할 수 있도록 도와주는 웹 플랫폼입니다." />
       <meta property="og:title" content="ZABO - 자보" />
       <meta property="og:description" content="이제 포스터 확인은 자보에서." />
